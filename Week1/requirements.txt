@@ -1,0 +1,26 @@
+# Core dependencies for Google Gemini Travel Recommender
+
+# Google Gemini API
+google-generativeai>=0.3.0
+
+# Environment variables management
+python-dotenv>=1.0.0
+
+# Web scraping (BeautifulSoup)
+beautifulsoup4>=4.12.0
+
+# HTTP requests
+requests>=2.31.0
+
+# Jupyter notebook support
+ipython>=8.12.0
+jupyter>=1.0.0
+
+# Optional: For better display in notebooks
+markdown>=3.4.0
+
+openai
+
+tiktoken
+
+gradio
